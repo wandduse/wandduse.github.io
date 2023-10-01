@@ -1,5 +1,5 @@
-# wandduse.github.io
-# dlj 是cloudflare Worker KV 短连接
+
+# dlj文件夹是cloudflare Worker KV 短连接
 源文件 \
 https://github.com/wandduse/wandduse.github.io/dlj/index.html \
 cdn使用cdn.jsdelivr.net \
